@@ -1,0 +1,11 @@
+[General]
+mainDirPath=D:/BGI/text
+engineCode=0
+outputFormat=2
+outputPartMode=1
+mergeDirPath=.
+mergeSkipReg=^[a-zA-Z0-9{]
+regIndex=13
+cutoff=true
+cutoffCopy=true
+windowSize=@Size(640 550)
